@@ -1,6 +1,6 @@
 {
-      "name": "Hw Group Management Bot",
-      "logo": "https://telegra.ph/file/40bd46beea03b32f2093f.jpg",
+      "name": "Chitti Group Management Bot",
+      "logo": "https://telegra.ph/file/6bc3c7466e88fd1b81728.jpg",
       "description": "A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon",
       "keywords": [
          "telegram",
@@ -11,7 +11,7 @@
          "tianabot",
          "telegram"
       ],   
-   "repository": "https://github.com/hackerworldyt/TianaBot",
+   "repository": "https://github.com/hitmolive/chitti",
    "addons": [
       {
          "options": {
@@ -69,7 +69,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "nobady_kares"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
@@ -126,7 +126,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": ""
+         "value": "-5560670645"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -164,7 +164,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/PrincexDonateBot"
+         "value": "https://t.me/desiredchat"
       }   
    }
 }
